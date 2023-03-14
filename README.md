@@ -10,3 +10,6 @@ For Self-Organizing Map: SOM/SOM_EPOGH.ipynb
 
 ### Tune the Deep CNN Autoncoder parameters
 network.py  
+
+### Tune Self-Organizing Map parameters
+hyperparameter_tuning.py  
