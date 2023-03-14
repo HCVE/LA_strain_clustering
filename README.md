@@ -8,3 +8,5 @@ For Self-Organizing Map: SOM/SOM_TRAINING.ipynb
 For Deep CNN Autoencoder with k-medoids: AE_kmedoids/AE_EPOGH_TRAINING.ipynb  
 For Self-Organizing Map: SOM/SOM_EPOGH.ipynb
 
+### Tune the Deep CNN Autoncoder parameters
+network.py  
